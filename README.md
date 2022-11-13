@@ -1,2 +1,4 @@
 # YWCC307
-A repo of the work I have been doing in this class.
+This repo contains the work I have done in class
+## Presentation Summary
+My presentation was about asymmetric encryption. It compared symmetric encryption and how asymmetric encryption helps solves the issue of symmetric encryption.
